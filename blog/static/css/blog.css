@@ -25,11 +25,19 @@ h2, h4 {
     color: #39CCCC;
 }
 
+p {
+    font-family: 'Josefin Sans';
+    color: #000000;
+}
+
 h3 {
     font-family: 'Shadows Into Light';
+    color: #39CCCC;
 }
 
 .date {
+    font-family: 'Amatic SC';
+    font-size: 26pt;
     color: #000000;
 }
 
